@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "aws": "^0.0.3-2",
+    "aws-sdk": "^2.1692.0",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "name": "codespaces-express",
+  "version": "1.0.0",
+  "description": "Welcome to your shiny new Codespace running Express! We've got everything fired up and running for you to explore Express.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
